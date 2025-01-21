@@ -55,7 +55,7 @@ const Dashboard = () => {
             type="text"
             value={input}
             onChange={(e) => setInput(e.target.value)}
-            placeholder="Ask Lamar..."
+            placeholder="Wanna Debby? Ask me anything!"
           />
           <button
             className="dark: bg-white dark: text-black rounded-full p-1"
